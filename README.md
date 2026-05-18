@@ -5,4 +5,5 @@
 Создан на основe React + Vite
 
 Доступен по ссылкам:
-gallery.nagisus.ru
+https://gallery.nagisus.ru
+https://sucrosexd.github.io/edugallery/
